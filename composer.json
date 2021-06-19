@@ -2,6 +2,9 @@
     "name": "teppokoivula/hello-world",
     "type": "processwire-module",
     "license": "MIT",
+    "extra": {
+        "installer-name": "HelloWorld"
+    },
     "require": {
         "composer/installers": "~1.0"
     }
