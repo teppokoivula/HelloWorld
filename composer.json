@@ -1,0 +1,7 @@
+{
+    "name": "teppokoivula/hello-world",
+    "type": "processwire-module",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}

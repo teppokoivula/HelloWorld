@@ -1,0 +1,1 @@
+This is the Hello World demonstration module from ProcessWire default site profile with minor modifications. This version was published here for Composer testing.
